@@ -1,0 +1,14 @@
+{
+  "name": "yamin02",
+  "version": "1.0.0",
+  "description": "It's about rovers",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Yaminul Hoque",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.3.0"
+  }
+}
