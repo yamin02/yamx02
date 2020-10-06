@@ -9,7 +9,7 @@
   "author": "Yaminul Hoque",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.9.0"
+    "electron": "^8.5.2"
   }
 }
 
